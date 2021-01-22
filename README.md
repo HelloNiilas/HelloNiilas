@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Niilas!
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=niilasoikarainen)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=helloniilas)](https://github.com/LordDashMe/github-contribution-stats/)
 
 - 🔭 I’m currently working on a lot of stuff
 - 🌱 I’m currently learning many languages
