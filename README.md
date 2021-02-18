@@ -4,8 +4,8 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=helloniilas)](https://github.com/LordDashMe/github-contribution-stats/)
 
 - I’m currently working on..
-    - stuff at (@1F3L53)[https://github.com/1F3L53]
-    - cool games at (@PlaylinkStudios)[https://github.com/PlaylinkStudios]
+    - stuff at [@1F3L53](https://github.com/1F3L53)
+    - cool games at [@PlaylinkStudios](https://github.com/PlaylinkStudios)
     - and more!
 - I’m currently learning...
     - C#
